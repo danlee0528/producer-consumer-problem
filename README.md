@@ -1,6 +1,9 @@
 # Purpose
-
 The purpose of the project is to design a multi-threaded program with use of semaphore and mutex to avoid deadlocks
+
+# Technologies
+  - POSIX Threads
+
 # Process
 ### Step 1: The Language of Choice
 The project involves use of a processor which sits at the core of a computer. To get to the core,  a programming language must be low-level, which means it must provide little or no abstraction of programming concepts and be very close to writing actual machine instructions. My language of choice was C as it is a low-level language and supports multi-threaded programming with POSIX threads library.
